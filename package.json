@@ -1,0 +1,13 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "1.0.0",
+  "description": "Mario Kart Simulator using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
